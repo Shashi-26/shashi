@@ -6,5 +6,5 @@ class Car{
         console.log("Car name is "+this.name);
     }
 }
-const m = new Car();
+const m = new Car("ford");
 m.disp();
